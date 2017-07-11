@@ -4,6 +4,7 @@
 * [目录](jian-jie.md)
 * [群管理](qun-guan-li.md)
   * [积分](liao-tian-ji-qi-ren/ji-fen.md)
+  * [签到](liao-tian-ji-qi-ren/qian-dao.md)
   * [群游戏](liao-tian-ji-qi-ren/qun-you-xi.md)
     * [猜大小](liao-tian-ji-qi-ren/cai-da-xiao.md)
     * 猜数字
