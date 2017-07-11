@@ -17,5 +17,5 @@
 * [电影机器人](dian-ying-ji-qi-ren.md)
 * 商城助手
 * [聊天机器人](liao-tian-ji-qi-ren.md)
-  * 查快递
+  * [查快递](liao-tian-ji-qi-ren/cha-kuai-di.md)
 
