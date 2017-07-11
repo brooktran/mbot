@@ -11,8 +11,8 @@
     * [猜大小](liao-tian-ji-qi-ren/cai-da-xiao.md)
     * 猜数字
     * [幸运28](liao-tian-ji-qi-ren/qun-you-xi/28dian.md)
-    * 缘分测试
-    * 测姓名
+    * [缘分测试](liao-tian-ji-qi-ren/yuan-fen-ce-shi.md)
+    * [测姓名](liao-tian-ji-qi-ren/ce-xing-ming.md)
     * [灵签](liao-tian-ji-qi-ren/ling-qian.md)
 * [电影机器人](dian-ying-ji-qi-ren.md)
 * 商城助手
