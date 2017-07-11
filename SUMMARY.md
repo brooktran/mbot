@@ -13,7 +13,7 @@
     * 缘分测试
     * 测姓名
     * 灵签
-* 电影机器人
+* [电影机器人](dian-ying-ji-qi-ren.md)
 * 商城助手
 * [聊天机器人](liao-tian-ji-qi-ren.md)
   * 查快递
