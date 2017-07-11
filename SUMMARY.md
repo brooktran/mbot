@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](README.md)
-* [目录](jian-jie.md)
+* [目录](SUMMARY.md)
 * [群管理](qun-guan-li.md)
   * [积分](liao-tian-ji-qi-ren/ji-fen.md)
   * [签到](liao-tian-ji-qi-ren/qian-dao.md)
