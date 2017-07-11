@@ -13,7 +13,7 @@
     * [幸运28](liao-tian-ji-qi-ren/qun-you-xi/28dian.md)
     * 缘分测试
     * 测姓名
-    * 灵签
+    * [灵签](liao-tian-ji-qi-ren/ling-qian.md)
 * [电影机器人](dian-ying-ji-qi-ren.md)
 * 商城助手
 * [聊天机器人](liao-tian-ji-qi-ren.md)
